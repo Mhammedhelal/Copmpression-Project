@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+
+    <AssemblyName>CompressionClient</AssemblyName>
+    <RootNamespace>CompressionClient</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <LangVersion>9.0</LangVersion>
+  </PropertyGroup>
+
+</Project>

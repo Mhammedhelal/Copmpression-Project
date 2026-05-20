@@ -1,0 +1,14 @@
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/obj/Debug/net8.0-windows/CompressionClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/obj/Debug/net8.0-windows/CompressionClient.AssemblyInfoInputs.cache
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/obj/Debug/net8.0-windows/CompressionClient.AssemblyInfo.cs
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/obj/Debug/net8.0-windows/CompressionClient.csproj.CoreCompileInputs.cache
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/bin/Debug/net8.0-windows/CompressionClient
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/bin/Debug/net8.0-windows/CompressionClient.deps.json
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/bin/Debug/net8.0-windows/CompressionClient.runtimeconfig.json
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/bin/Debug/net8.0-windows/CompressionClient.dll
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/bin/Debug/net8.0-windows/CompressionClient.pdb
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/obj/Debug/net8.0-windows/CompressionClient.dll
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/obj/Debug/net8.0-windows/refint/CompressionClient.dll
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/obj/Debug/net8.0-windows/CompressionClient.pdb
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/obj/Debug/net8.0-windows/CompressionClient.genruntimeconfig.cache
+/home/mohammed/Downloads/CompressionApp_IT432/CS_Project/CompressionClient/obj/Debug/net8.0-windows/ref/CompressionClient.dll
